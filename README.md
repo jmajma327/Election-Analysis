@@ -38,9 +38,10 @@ The candiates results were:
 3.	Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 
 The winner of the election was Dianna DeGette.
-1.	She received 73.8% of the vote and 272,892 number of votes
+1.	She received 73.8% of the vote and 272,892 number of votes.
 
 https://user-images.githubusercontent.com/67720719/89743883-7d833100-da75-11ea-9cff-13ef6d878851.png
+
 
 ## Challenge Overview
 
