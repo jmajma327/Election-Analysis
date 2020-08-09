@@ -40,6 +40,9 @@ The candiates results were:
 The winner of the election was Dianna DeGette.
 1.	She received 73.8% of the vote and 272,892 number of votes.
 
+![](2020-80-09)
+
+
 
 ## Challenge Overview
 
