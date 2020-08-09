@@ -39,3 +39,11 @@ The candiates results were:
 
 The winner of the election was Dianna DeGette.
 1.	She received 73.8% of the vote and 272,892 number of votes
+
+## Challenge Overview
+
+The goal was to add some additional tasks in the audit. The first task was to calculate the total votes cast in this congressional election. Second it was to provide breakdown of the number of votes and the percentage of total votes for each county in the precinct. Then it was to determine which county had the largest number of votes and provide a breakdown of the number of votes and the percentage of the total votes each candidate received. Lastly, to determine which candidate won the election, their vote count, and their percentage of the total votes.
+
+## Challenge Summary
+
+The script could be used for other elections. If the variables and indexes stay the same in the .csv file structure with counties being identified in same column and candidate being identified in same column. The script needs some additional info for it to work more effectively for other areas such as city names, districts, age and gender of voters, and party affiliation.
